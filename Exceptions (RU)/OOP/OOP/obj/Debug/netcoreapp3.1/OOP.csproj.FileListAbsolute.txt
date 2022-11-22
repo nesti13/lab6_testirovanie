@@ -1,0 +1,42 @@
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\thesi\Desktop\5\НПО\8lab\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\thesi\Desktop\5\НПО\8lab\Collections (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\thesi\Desktop\5\НПО\8lab\Exceptions (RU)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache

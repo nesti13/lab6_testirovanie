@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic of .Net Fremework", "Basic of .Net Fremework\Basic of .Net Fremework.csproj", "{3A2A6B17-4F8B-4731-B555-3280932AA1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{A0205CF4-DE38-4093-89CE-6A77E88CA5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2A6B17-4F8B-4731-B555-3280932AA1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2A6B17-4F8B-4731-B555-3280932AA1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2A6B17-4F8B-4731-B555-3280932AA1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2A6B17-4F8B-4731-B555-3280932AA1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0205CF4-DE38-4093-89CE-6A77E88CA5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0205CF4-DE38-4093-89CE-6A77E88CA5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0205CF4-DE38-4093-89CE-6A77E88CA5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0205CF4-DE38-4093-89CE-6A77E88CA5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {363B754C-F1B7-458E-A3D0-666C8CCE3C99}
+	EndGlobalSection
+EndGlobal
